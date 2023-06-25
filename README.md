@@ -11,3 +11,5 @@ If all N prisoners draw their number M from the N boxes, they are all free. Howe
 Download the script, then open up a terminal and `cd` into the directory where the `prisoner_problem.py` script is located. Then, type `python prisoner_problem.py -p [NUMBER OF PRISONERS] -s [NUMBER OF SIMULATIONS]`. Replace `[NUMBER OF PRISONERS]` with the number of prisoners you want to have and `[NUMBER OF SIMULATIONS]` with the number of times you wish to simulate the prisoners picking boxes.
 
 **Example:** `python prisoner_problem.py -p 100 -s 1000`
+
+> Feel free to mess with the code, or uncomment some of the print lines to see what the code is doing.
